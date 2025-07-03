@@ -11,7 +11,20 @@ export default function ButtonExample(){
 	return (
 		<View style={styles.container}>
 			<Text style={styles.title}>Press the Button</Text>
-			 <Button title='Click Me' o
+			 <Button title='Click Me' onPress={handlePress} />
 		</View>
 	)
 }
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    paddingTop: 60,
+    alignItems: 'center',
+    backgroundColor: '#fff',
+  },
+  title: {
+    fontSize: 24,
+    marginBottom: 20,
+  },
+});
