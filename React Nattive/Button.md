@@ -9,6 +9,9 @@ export default function ButtonExample(){
 	}
 
 	return (
-		<View style={styles.container}></
+		<View style={styles.container}>
+			<Text style={styles.title}>Press the Button</Text>
+			 <Button title='Click Me' o
+		</View>
 	)
 }
