@@ -5,5 +5,10 @@ Example
 
 export default function ButtonExample(){
 	const handlePress = () => {
+		alert('Button was pressed!');
 	}
+
+	return (
+		<View style={styles.container}></
+	)
 }
