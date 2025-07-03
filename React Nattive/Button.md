@@ -1,0 +1,1 @@
+React Native's Button is a simple
