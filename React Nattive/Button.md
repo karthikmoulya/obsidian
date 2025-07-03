@@ -1,1 +1,1 @@
-React Native's Button is a simple
+React Native's Button is a simple component that renders a native-styled button. You can set a label, color, and an action when it's p
