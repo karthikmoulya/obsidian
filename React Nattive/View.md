@@ -1,2 +1,3 @@
 - It' s a most basic container component in React Native
-- Similar to '' in web development
+- Similar to div in web development
+- Used to layout other components (like Text, Button, etc.)
