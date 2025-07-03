@@ -1,1 +1,1 @@
-The text Cmponent 
+The text Component is used to display readable text i your app. Unlike HTML, you must wrap all visible strings inside <text
