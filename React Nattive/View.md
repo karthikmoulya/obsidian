@@ -1,1 +1,2 @@
-- It' s a 
+- It' s a most basic container component in React Native
+- Similar to '' in web development
